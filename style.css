@@ -1,0 +1,14 @@
+* {
+    background-color: rgb(233, 139, 139);
+    text-align: center;
+}
+
+.input-sty {
+    color: white;
+    margin-right: 1rem;
+}
+
+.btn-sty{
+padding: auto;
+  
+}
