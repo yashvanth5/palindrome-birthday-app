@@ -21,3 +21,8 @@ HTML, CSS, Javascript
 https://palindromebornday.netlify.app/
 
 
+# Screen Shots 
+
+![palindromebday](https://user-images.githubusercontent.com/116138513/208687307-9e97a119-5536-4702-b91c-194ecd941476.PNG)
+
+
