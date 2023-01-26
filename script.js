@@ -232,7 +232,7 @@ function clickHandler (e){
     var isPalindrome = checkPalindromeForAll(date);
  
     if( !isPalindrome.includes(true)) {
-        const [ctr1, nextDate] = getNextPalindromeDate(date);
+         const [ctr1, nextDate] = getNextPalindromeDate(date);
       const [ctr2, prevDate] = getPreviousPalindromeDate(date);
        
       if (ctr1 > ctr2) { 
